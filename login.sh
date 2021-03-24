@@ -12,7 +12,7 @@ L)llllll  o)OOO   g)GGGG i) n)   NN     S)ssss  h)   HH  e)EEEE l)LL l)LL
 \e[1;35m
 [+] Author : Mr-Ps1kop4t
 [+] Team : KAGAKADA
-[+] Github :
+[+] Github :https://github.com/TERMUXPEMULA123/LOGIN
 \e[0m"
 read -p $'\e[31mBuat Username Untuk Login :\e[0m ' username
 read -p $'\e[32mBuat Password Untuk Login :\e[0m ' password
