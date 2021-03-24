@@ -10,9 +10,9 @@ L)llllll  o)OOO   g)GGGG i) n)   NN     S)ssss  h)   HH  e)EEEE l)LL l)LL
                       GG                                                  
                  g)GGGG                                                   
 \e[1;35m
-[+] Author : RyM
-[+] Team : Army Cyber Network
-[+] Github : https://www.github.com/MaulanaRyM
+[+] Author : Mr-Ps1kop4t
+[+] Team : KAGAKADA
+[+] Github :
 \e[0m"
 read -p $'\e[31mBuat Username Untuk Login :\e[0m ' username
 read -p $'\e[32mBuat Password Untuk Login :\e[0m ' password
